@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sonaa\\Desktop\\MailRegisteration\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj": {}
+    "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sonaa\\Desktop\\MailRegisteration\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj": {
+    "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sonaa\\Desktop\\MailRegisteration\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj",
         "projectName": "MailRegisteration.Presentation",
-        "projectPath": "C:\\Users\\sonaa\\Desktop\\MailRegisteration\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj",
+        "projectPath": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj",
         "packagesPath": "C:\\Users\\sonaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sonaa\\Desktop\\MailRegisteration\\MailRegisteration.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sonaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DCA1-70C1-49D4-922D-407A96D1F386}|MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj|c:\\users\\sonaa\\documents\\github\\mail-confirm\\mailregisteration.presentation\\extention\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E3DCA1-70C1-49D4-922D-407A96D1F386}|MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj|solutionrelative:mailregisteration.presentation\\extention\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DCA1-70C1-49D4-922D-407A96D1F386}|MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj|c:\\users\\sonaa\\documents\\github\\mail-confirm\\mailregisteration.presentation\\mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E3DCA1-70C1-49D4-922D-407A96D1F386}|MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj|solutionrelative:mailregisteration.presentation\\mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\Extention\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MailRegisteration.Presentation\\Extention\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\Extention\\DependencyInjection.cs",
+              "RelativeToolTip": "MailRegisteration.Presentation\\Extention\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:19:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailServices\\MailService.cs",
+              "RelativeDocumentMoniker": "MailRegisteration.Presentation\\MailServices\\MailService.cs",
+              "ToolTip": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailServices\\MailService.cs",
+              "RelativeToolTip": "MailRegisteration.Presentation\\MailServices\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:18:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

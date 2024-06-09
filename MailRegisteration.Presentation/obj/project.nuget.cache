@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PltrhbC2+52uOm+l4BBLifh0TASz55vupJ9x9040mxWettB7MLeSEQYLjrei9FuwsVpVnuhn0aD1dX+sN8s3Xg==",
+  "dgSpecHash": "+xqJ3zTZW68TZDPh5m7pPu3zeEoP2dYNRC9Zq9/28QnqrEB/yOv0LatGkYvfliERbVl0RbrOw2kHYRTG1zYYGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sonaa\\Desktop\\MailRegisteration\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\sonaa\\Documents\\GitHub\\Mail-Confirm\\MailRegisteration.Presentation\\MailRegisteration.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sonaa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sonaa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

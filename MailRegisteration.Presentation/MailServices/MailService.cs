@@ -13,7 +13,7 @@ namespace MailRegisteration.Presentation.MailServices
             try
             {
                 var newmail = new MimeMessage();
-                newmail.From.Add(MailboxAddress.Parse("bilgeadam2024@gmail.com"));
+                newmail.From.Add(MailboxAddress.Parse("mail adresi"));
                 newmail.To.Add(MailboxAddress.Parse(email));
                 newmail.Subject = subject;
                 var builder = new BodyBuilder();
@@ -21,7 +21,7 @@ namespace MailRegisteration.Presentation.MailServices
                 newmail.Body = builder.ToMessageBody();
                 var smtp = new SmtpClient();
                 await smtp.ConnectAsync("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
-                await smtp.AuthenticateAsync("bilgeadam2024@gmail.com", "ggradrvaswodhwii");
+                await smtp.AuthenticateAsync("mail adresi", "uygulama anahtarı");
                 await smtp.SendAsync(newmail);
                 await smtp.DisconnectAsync(true);
 

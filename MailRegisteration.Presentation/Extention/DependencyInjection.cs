@@ -12,7 +12,7 @@ namespace MailRegisteration.Presentation.Extention
             services.AddDbContext<AppDbContext>(options =>
             {
                 options.UseLazyLoadingProxies();
-                options.UseSqlServer("Server=90.158.106.204,14333; Database=Register; User Id=developer; Password=Ba12345678+; TrustServerCertificate = True;");
+                options.UseSqlServer("Your connection string");
 
             });
 
